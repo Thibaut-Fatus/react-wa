@@ -1,0 +1,4 @@
+django
+djangorestframework
+django-pipeline
+django-pipeline-browserify

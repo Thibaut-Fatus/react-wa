@@ -1,0 +1,4 @@
+weassur/node_modules/
+weassur/static/js/bower_components/
+
+*.pyc
